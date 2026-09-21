@@ -32,7 +32,7 @@ Xrotel is a configuration and instruction package designed to work with Codex's 
 
 **Your Codex installation remains Codex.**
 
-### Works with Codex — not around it.
+### Works with Codex - not around it.
 
 Xrotel is an independent third-party project and is not affiliated with, sponsored by or endorsed by OpenAI.
 
@@ -174,7 +174,7 @@ If it improves your Codex workflow, saves you time or helps you build better sof
 
 https://www.paypal.com/ncp/payment/X3YXRNX2WWSZ6
 
-### Support Xrotel monthly — $3/month
+### Support Xrotel monthly - $3/month
 
 https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-1HU900860L732862RNKMIYKY
 
