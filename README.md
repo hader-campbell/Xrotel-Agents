@@ -239,3 +239,20 @@ Xrotel will continue to evolve alongside supported Codex workflows where practic
 # Xrotel Agents
 
 **Build with a team, not just an agent.**
+
+# ⬇️ Download Xrotel Agents
+
+## 🚀 Get the latest release
+
+👉 **[Download Xrotel Agents](https://github.com/hader-campbell/Xrotel-Agents/releases/latest)**
+
+The **complete package** is recommended for most users and includes all available Xrotel orchestration profiles:
+
+- ⚡ Efficient
+- ⚖️ Balanced
+- 🔥 Power
+- 🚀 Maximum
+
+Individual profile packages are also available under **Assets** on the release page.
+
+Xrotel is free to download and use under the included licence.
