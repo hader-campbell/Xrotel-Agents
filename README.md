@@ -152,15 +152,22 @@ Start a fresh Codex session after changing a project profile so its project inst
 
 ---
 
-# ⬇️ Download Xrotel
+# ⬇️ Download Xrotel Agents
 
-Download the latest packages from:
+## 🚀 Get the latest release
 
-**GitHub Releases → Latest Release**
+👉 **[Download Xrotel Agents](https://github.com/hader-campbell/Xrotel-Agents/releases/latest)**
 
-For most users, the easiest option is the complete Xrotel package containing all available profiles.
+The **complete package** is recommended for most users and includes all available Xrotel orchestration profiles:
 
-Individual profile packages are also provided for users who prefer them.
+- ⚡ Efficient
+- ⚖️ Balanced
+- 🔥 Power
+- 🚀 Maximum
+
+Individual profile packages are also available under **Assets** on the release page.
+
+Xrotel is free to download and use under the included licence.
 
 ---
 
@@ -239,20 +246,3 @@ Xrotel will continue to evolve alongside supported Codex workflows where practic
 # Xrotel Agents
 
 **Build with a team, not just an agent.**
-
-# ⬇️ Download Xrotel Agents
-
-## 🚀 Get the latest release
-
-👉 **[Download Xrotel Agents](https://github.com/hader-campbell/Xrotel-Agents/releases/latest)**
-
-The **complete package** is recommended for most users and includes all available Xrotel orchestration profiles:
-
-- ⚡ Efficient
-- ⚖️ Balanced
-- 🔥 Power
-- 🚀 Maximum
-
-Individual profile packages are also available under **Assets** on the release page.
-
-Xrotel is free to download and use under the included licence.
